@@ -9,12 +9,12 @@
   "author": "zhaodx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhaodx/pm2-fluentd/issues"
+    "url": "https://github.com/MattMx/pm2-fluentd/issues"
   },
-  "homepage": "https://github.com/zhaodx/pm2-fluentd#readme",
+  "homepage": "https://github.com/MattMx/pm2-fluentd#readme",
   "dependencies": {
     "msgpack-lite": "^0.1.26",
-    "pm2": "^2.4.2",
-    "pmx": "^1.0.4"
+    "pm2": "^5.2.2",
+    "pmx": "^1.6.7"
   }
 }

@@ -1,9 +1,10 @@
 # pm2-fluentd
-PM2 Fluentd Plugin
+PM2 Fluentd Plugin forked from zhaodx/pm2-fluentd
+Updated for new pm2
 
 ## Install
 ```javascript
-    pm2 install zhaodx/pm2-fluentd
+    pm2 install mattmx/pm2-fluentd
 ```
 
 ## Configuration 
